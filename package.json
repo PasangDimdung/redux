@@ -11,6 +11,7 @@
   },
   "private": true,
   "dependencies": {
+    "@angular-redux/store": "^10.0.0",
     "@angular/animations": "~8.1.2",
     "@angular/common": "~8.1.2",
     "@angular/compiler": "~8.1.2",
@@ -19,7 +20,10 @@
     "@angular/platform-browser": "~8.1.2",
     "@angular/platform-browser-dynamic": "~8.1.2",
     "@angular/router": "~8.1.2",
+    "redux": "^4.0.0",
+    "redux-devtools-extension": "^2.13.8",
     "rxjs": "~6.4.0",
+    "tassign": "^1.0.0",
     "tslib": "^1.9.0",
     "zone.js": "~0.9.1"
   },
